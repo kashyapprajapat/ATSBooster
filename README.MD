@@ -1,12 +1,12 @@
 # 🛠 Gumloop AI Resume Optimizer
 
 ### 🚀 Overview  
-This project uses **Gumloop** and **Gemini AI API** to analyze a resume against a job description and provide suggestions to improve **ATS (Applicant Tracking System) compatibility**.
+This project uses **Gumloop** and **Gemini AI API** to analyze a resume against a job description and provide suggestions to improve **ATS (Applicant Tracking System) compatibility**. Live Link -> [click me](https://www.gumloop.com/interface/Atsbooster-jVSbrWUfcR8F9eTWtZmaRL)
 
 ## 🔗 Features  
-- 📄 **Upload Resume** (PDF/DOC/Text)  
+- 📄 **Upload Resume** (PDF)  
 - 📝 **Paste Job Description**  
-- 🤖 **AI Analysis using Gemini API**  
+- 🤖 **AI Analysis**  
 - 🔍 **Keyword Matching & Optimization**  
 - 📊 **ATS Score & Improvement Suggestions**  
 - 📥 **Download Optimized Resume Suggestions**  
@@ -31,4 +31,23 @@ This project uses **Gumloop** and **Gemini AI API** to analyze a resume against 
 
 ---
 
-At Learning Stage....👨🏻‍💻☕🧋
+### Live Images
+
+## Whole Flow
+![Liveimages](livedemo/flow1.png)
+
+## UserFlow
+![Liveimages](livedemo/userflow.png)
+
+## InternelFlow
+![Liveimages](livedemo/internlflow.png)
+
+## Outputfile Flow
+![Liveimages](livedemo/outputflow.png)
+
+
+## Gumllop Workflow 
+[gumloopflow](https://www.gumloop.com/pipeline?workbook_id=tS2artvda4K3PMExoJtqwj)
+
+
+## feel free to use Happy coding.👨🏻‍💻☕🧋
