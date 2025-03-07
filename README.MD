@@ -5,6 +5,8 @@ This project uses **Gumloop** and **Gemini AI API** to analyze a resume against 
 
 
 <video src="https://github.com/kashyapprajapat/ATSBooster/blob/main/demo.mp4" controls width="600"></video>
+🎥 **Watch the Demo:**  
+[Click here](https://github.com/kashyapprajapat/ATSBooster/blob/main/demo.mp4)
 
 
 
