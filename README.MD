@@ -4,9 +4,7 @@
 This project uses **Gumloop** and **Gemini AI API** to analyze a resume against a job description and provide suggestions to improve **ATS (Applicant Tracking System) compatibility**. Live Link -> [click me](https://www.gumloop.com/interface/Atsbooster-jVSbrWUfcR8F9eTWtZmaRL)
 
 
-<video src="https://github.com/kashyapprajapat/ATSBooster/blob/main/demo.mp4" controls width="600"></video>
-🎥 **Watch the Demo:**  
-[Click here](https://github.com/kashyapprajapat/ATSBooster/blob/main/demo.mp4)
+https://github.com/user-attachments/assets/2177b40b-bdf1-41df-b6d5-201a92c8c1bf
 
 
 
